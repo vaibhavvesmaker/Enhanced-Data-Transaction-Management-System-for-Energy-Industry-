@@ -1,6 +1,6 @@
 
 
-# Project README: Enhanced Data Transaction Management System using Excel
+# Enhanced Data Transaction Management System using Excel
 
 ## Overview
 
